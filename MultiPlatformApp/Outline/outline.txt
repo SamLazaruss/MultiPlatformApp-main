@@ -1,0 +1,7 @@
+Multi Platform Game Launcher
+ - Gaming Profile
+ - Find Gamers
+ - Cross Platform Chat and Voice
+ - Discover new Gamers
+ - Download Games
+ - Update Games
